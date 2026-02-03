@@ -105,7 +105,7 @@ RTO issues the scrapping certificate
 
 🚀 Installation & Setup (Basic)
 # Clone the repository
-git clone https://github.com/your-username/scrapnet.git
+git clone https://github.com/fathimadiyam/Scrapnet.git
 
 # Install backend dependencies
 npm install
