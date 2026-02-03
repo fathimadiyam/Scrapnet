@@ -130,6 +130,10 @@ Kaggle datasets used for training machine learning models related to:
 Scrap price prediction
 
 Vehicle damage assessment
+## Large Files
+Trained ML models and datasets are excluded due to GitHub size limits.
+They are available via external storage.
+
 
 🔮 Future Enhancements
 
